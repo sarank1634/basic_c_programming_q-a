@@ -1,0 +1,1 @@
+// Take a number as input and if that number is ODD or Even.

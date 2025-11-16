@@ -1,0 +1,1 @@
+// 5. Take a number as input from terminal and print tabels from 1 to 20 for that number.

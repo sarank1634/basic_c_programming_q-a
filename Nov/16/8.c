@@ -1,0 +1,1 @@
+// Take name,city and age as input and print (my name is { name} live in {city} am {age} years old.)

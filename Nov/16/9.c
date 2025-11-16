@@ -1,0 +1,1 @@
+// Take a number as inout if it is divisible by 3 and 5 print "Good number" else print "Bad Number".
