@@ -13,3 +13,23 @@
 // Example:
 // If the distance is 7 km, then
 // Fare = 5 + (7 − 3) × 2 = 5 + 8 = ₹13
+
+#include<stdio.h>
+
+int main(){
+    int distance,amount;
+    
+
+    printf("plese enter your distance: ");
+    scanf("%d",&distance);
+
+    if(distance <=3){
+        printf("The your travel amount is 5");
+    } else if (distance >=3)
+    {
+        amount = 5+2*(distance-3);
+        printf("travel of total cost is %d",amount);
+    }
+    
+    return 0;
+}
