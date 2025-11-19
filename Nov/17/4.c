@@ -1,9 +1,11 @@
 // Check if a given string is a palindrome (ignoring case).
 #include<stdio.h>
-#include<str
+#include<string.h>
 
 int main(){
     char palin[30];
+    char result[] = "";
+
     
     printf("Plese enter your string:");
     scanf("%s",&palin);
